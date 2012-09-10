@@ -1,3 +1,17 @@
+Release Notes for Rakuten Checkout ver. 1.0.6
+----------------------------------------------
+31.07.2012
+
+*** Bug Fixes ***
+(COE-29) Umlauts in customer data is not displayed correctly (xt:commerce)
+
+Release Notes for Rakuten Checkout ver. 1.0.5
+----------------------------------------------
+12.07.2012
+
+*** Bug Fixes ***
+(COE-6) Client adresses are not added to shop customers
+
 Release Notes for Rakuten Checkout ver. 1.0.4
 ----------------------------------------------
 09.02.2012
